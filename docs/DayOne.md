@@ -35,7 +35,7 @@
   <Element1 />
   <Element2 />
 </>
-
+```
 ---
 
 ## 🧩 Code Written
