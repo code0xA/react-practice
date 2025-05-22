@@ -4,7 +4,8 @@ function App() {
 
 
   return (
-    <Chai />
+    <Chai /> //Can add <> </> at the end and beginning to enclose more than one element into a single fragment.
+    //This is called Fragmenting.
   )
 }
 

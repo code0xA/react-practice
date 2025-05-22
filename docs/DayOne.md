@@ -24,6 +24,18 @@
   - Imports `StrictMode` and the main `App` component.
   - Uses `createRoot` to mount the app.
 
+## 🧩 React Fragment (`<> </>`)
+
+- React components can only return **one parent element**.
+- To group multiple elements **without adding extra HTML**, use a **Fragment**.
+
+### ✅ Syntax
+```jsx
+<>
+  <Element1 />
+  <Element2 />
+</>
+
 ---
 
 ## 🧩 Code Written
